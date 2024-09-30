@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vicky, with five years experience in financial service industry
 - 👀 I’m interested in using data to impact business decision-making
-- 🌱 I’m currently learning Business Analytics in Northeastern University, and are graduating in Aug 2024
+- 🌱 I just graduated from Business Analytics in Northeastern University, and actively seeking for a full-time job
 - 💞️ I’m looking to contribute as a data analytics or a business analytics, to explore insights behind the data and help with business growth
 - 📫 How to reach me: email me at vickyhli1021@gmail.com, or mobile via 617-902-8677
 - 😄 Pronouns: she/her
